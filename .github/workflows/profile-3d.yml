@@ -1,0 +1,33 @@
+name: Generate 3D Contribution SVG
+
+on:
+  schedule:
+    # Daily at midnight UTC (you can change this)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository
+      - uses: actions/checkout@v5
+
+      # Generate the 3D contributions SVG
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Commit & push the generated SVGs back into the repo
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A .
+          if git commit -m "Generated 3D contribution graphics"; then
+            git push
+          fi
