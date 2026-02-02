@@ -15,6 +15,43 @@
     <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions">
 </p>
 
+<!-- ================= SPOTIFY SECTION ================= -->
+
+<h2 align="center">🎵 My Spotify Playlist</h2>
+<h5 align="center">Enjoy the tunes!</h5>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4vC6legZbwdTECsyBMglSh" target="_blank">
+    <img 
+      src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" 
+      alt="My Spotify Playlist"
+    >
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">🎧 Spotify Activity</h3>
+
+<p align="center">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view.svg
+      ?uid=31k3ebz6elmpuo52t73bex5jdwym
+      &cover_image=true
+      &theme=default
+      &show_offline=true
+      &background_color=121212
+      &interchange=true
+      &bar_color=53b14f
+      &bar_color_cover=true"
+    alt="Spotify Now Playing"
+    width="450"
+  >
+</p>
+
+<!-- =================================================== -->
+
+
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
 
