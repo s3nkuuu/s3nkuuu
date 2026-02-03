@@ -17,33 +17,49 @@
 
 <!-- ================= SPOTIFY SECTION ================= -->
 
-<h2 align="center">🎵 My Spotify Playlist</h2>
-<h5 align="center">Enjoy the tunes!</h5>
+<h2 align="center">🎵 My Spotify</h2>
+<p align="center"><i>Enjoy the tunes!</i></p>
 
+<!-- PLAYLIST CARD -->
 <p align="center">
-  <iframe
-    style="border-radius:12px"
-    src="https://open.spotify.com/embed/playlist/4vC6legZbwdTECsyBMglSh?utm_source=generator&theme=0"
-    width="100%"
-    height="152"
-    frameborder="0"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-    loading="lazy">
-  </iframe>
+  <a href="https://open.spotify.com/playlist/4vC6legZbwdTECsyBMglSh" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=false&background_color=121212"
+      alt="Spotify Playlist"
+      width="500"
+    />
+  </a>
 </p>
 
+<hr>
+
+<!-- SPOTIFY ACTIVITY -->
 <h3 align="center">🎧 Spotify Activity</h3>
 
 <p align="center">
-  <img
-    src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
-    alt="Spotify Activity"
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
+    alt="Spotify Now Playing"
     width="450"
   />
 </p>
 
-<!-- =================================================== -->
+<hr>
 
+<!-- SPOTIFY PROFILE CARD -->
+<h3 align="center">👤 Spotify Profile</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31k3ebz6elmpuo52t73bex5jdwym" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&theme=default&background_color=121212"
+      alt="Spotify Profile"
+      width="350"
+    />
+  </a>
+</p>
+
+<!-- =================================================== -->
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
