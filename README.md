@@ -21,32 +21,25 @@
 <h5 align="center">Enjoy the tunes!</h5>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/4vC6legZbwdTECsyBMglSh" target="_blank">
-    <img 
-      src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" 
-      alt="My Spotify Playlist"
-    >
-  </a>
+  <iframe
+    style="border-radius:12px"
+    src="https://open.spotify.com/embed/playlist/4vC6legZbwdTECsyBMglSh?utm_source=generator&theme=0"
+    width="100%"
+    height="152"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
 </p>
-
-<hr>
 
 <h3 align="center">🎧 Spotify Activity</h3>
 
 <p align="center">
-  <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view.svg
-      ?uid=31k3ebz6elmpuo52t73bex5jdwym
-      &cover_image=true
-      &theme=default
-      &show_offline=true
-      &background_color=121212
-      &interchange=true
-      &bar_color=53b14f
-      &bar_color_cover=true"
-    alt="Spotify Now Playing"
+  <img
+    src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
+    alt="Spotify Activity"
     width="450"
-  >
+  />
 </p>
 
 <!-- =================================================== -->
