@@ -43,7 +43,7 @@
 <!-- ================= SPOTIFY SECTION ================= -->
 
 <h2 align="center">🎵 My Spotify</h2>
-<p align="center"><i>Enjoy the tunes!</i></p>
+<p align="center"><i>Took the risk and at the same time lost that chance.</i> <br> <sub>she said that I should stay with her but she's the one who leave.</sub></p>
 
 <!-- PLAYLIST (CLICKABLE IMAGE) -->
 <p align="center">
