@@ -7,16 +7,18 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
         
-      - name: Generate Pacman
-        uses: Platane/snk@v3
+      - name: Generate Pacman SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: s3nkuuu
           outputs: |
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
             
