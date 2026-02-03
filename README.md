@@ -46,8 +46,6 @@
   </a>
 </p>
 
-<hr>
-
 <!-- SPOTIFY ACTIVITY -->
 <h3 align="center">🎧 Spotify Activity</h3>
 <p align="center">
@@ -58,9 +56,16 @@
   />
 </p>
 
+<!-- SPOTIFY DATA CARD -->
+<p align="center">
+  <a href="https://github.com/s3nkuuu"> 
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31k3ebz6elmpuo52t73bex5jdwym" alt="Data Card for Spotify">
+  </a>
+</p>
+
 <hr>
 
-<!-- =================================================== -->
+<hr>
 
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
