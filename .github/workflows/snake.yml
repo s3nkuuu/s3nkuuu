@@ -6,38 +6,35 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      # Generate regular snake
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
         with:
           github_user_name: s3nkuuu
-          outputs: dist/github-snake-dark.svg
-          
-      # Generate name-writing snake
-      - name: Generate name writer
-        uses: ironmaniiith/Github-profile-name-writer@v1.0
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+            
+  generate-name:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Generate name animation  
+        uses: keshavsingh4522/Github-profile-name-writer@main
         with:
-          github_user_name: s3nkuuu
+          github-user-name: s3nkuuu
           
-      - name: Move name file
-        run: |
-          mkdir -p dist
-          mv github-profile-name-writer.svg dist/github-snake-name.svg || echo "Name file not generated"
-          
-      - name: Push to snake branch
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: snake
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
