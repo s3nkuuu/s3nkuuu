@@ -17,10 +17,19 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s3nkuuu&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s3nkuuu&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s3nkuuu&theme=omni&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s3nkuuu&theme=omni" width="100%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=s3nkuuu&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
-    <!--🐍📈SNAKEGRAPH WITH NAME / 🌐WEBSITE: https://github.com/Platane/snk -->
+    <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-<img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/snake/github-snake-name.svg" width="100%"><br>
-    <a href="https://github.com/s3nkuuu">
+
+<!-- Option 1: SVG Dark theme -->
+<img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/snake/github-snake-dark.svg" width="100%"><br>
+
+<!-- Option 2: GIF animated version -->
+<!-- <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/snake/ocean.gif" width="100%"><br> -->
+
+<!-- Option 3: Standard SVG -->
+<!-- <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/snake/github-contribution-grid-snake.svg" width="100%"><br> -->
+    
+<a href="https://github.com/s3nkuuu">
 <img
   src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph-dark.svg"
   width="100%"
