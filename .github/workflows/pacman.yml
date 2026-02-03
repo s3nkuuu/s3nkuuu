@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Generate pacman
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: s3nkuuu
           outputs: dist/pacman-contribution-graph-dark.svg
           
-      - name: Push pacman to output branch
+      - name: Push to pacman branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: pacman
