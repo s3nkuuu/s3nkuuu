@@ -75,8 +75,5 @@
 
 <hr>
 
-<hr>
-
-
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
