@@ -15,18 +15,19 @@
     <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions">
 </p>
 
+
 <!-- ================= SPOTIFY SECTION ================= -->
 
 <h2 align="center">🎵 My Spotify</h2>
 <p align="center"><i>Enjoy the tunes!</i></p>
 
-<!-- PLAYLIST CARD -->
+<!-- PLAYLIST (CLICKABLE IMAGE) -->
 <p align="center">
   <a href="https://open.spotify.com/playlist/4vC6legZbwdTECsyBMglSh" target="_blank">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=false&background_color=121212"
-      alt="Spotify Playlist"
+    <img
+      src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cb7c1f739603e6aae6d98b6db"
       width="500"
+      alt="Spotify Playlist"
     />
   </a>
 </p>
@@ -35,31 +36,18 @@
 
 <!-- SPOTIFY ACTIVITY -->
 <h3 align="center">🎧 Spotify Activity</h3>
-
 <p align="center">
-  <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"
-    alt="Spotify Now Playing"
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=1DB954&bar_color_cover=true"
     width="450"
+    alt="Spotify Activity"
   />
 </p>
 
 <hr>
 
-<!-- SPOTIFY PROFILE CARD -->
-<h3 align="center">👤 Spotify Profile</h3>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31k3ebz6elmpuo52t73bex5jdwym" target="_blank">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3ebz6elmpuo52t73bex5jdwym&theme=default&background_color=121212"
-      alt="Spotify Profile"
-      width="350"
-    />
-  </a>
-</p>
-
 <!-- =================================================== -->
+
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
