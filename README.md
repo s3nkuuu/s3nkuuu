@@ -1,3 +1,10 @@
+<div align="center">
+    <h2><b>👀 Visitor Count</b></h2>
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@s3nkuuu?name=s3nkuuu&theme=booru-lewd">
+    </p>
+</div>
+
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://github.com/s3nkuuu" style="display: inline-flex; align-items: center; text-decoration: none;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
@@ -12,6 +19,23 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=s3nkuuu&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
     <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
     <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/snake/github-snake-dark.svg" width="100%"><br>
+    <a href="https://github.com/s3nkuuu">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph.svg"
+      width="100%"
+    >
+  </picture>
+</a>
     <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions">
 </p>
 
@@ -51,8 +75,3 @@
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
-
-<div align="left">
-  <h2><b>👀 Visitor Count</b></h2>
-</div>
-<img src="https://count.getloli.com/@s3nkuuu?name=s3nkuuu&theme=green&darkmode=1">
