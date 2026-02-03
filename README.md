@@ -20,21 +20,11 @@
     <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
     <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/snake/github-snake-dark.svg" width="100%"><br>
     <a href="https://github.com/s3nkuuu">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph.svg"
-    >
-    <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph.svg"
-      width="100%"
-    >
-  </picture>
+<img
+  src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/pacman/pacman-contribution-graph-dark.svg"
+  width="100%"
+  alt="Pacman Contributions"
+/>
 </a>
     <img src="https://raw.githubusercontent.com/s3nkuuu/s3nkuuu/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions">
 </p>
