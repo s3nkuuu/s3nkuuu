@@ -13,17 +13,27 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
-        
-      - name: Generate snake with name
-        uses: Platane/snk@v3
+
+      # Generate regular snake
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: s3nkuuu
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e8df7a
-            dist/github-snake-name.svg?palette=github-dark&color_snake=#e8df7a&name=s3nkuuu
-            
+          outputs: dist/github-snake-dark.svg
+          
+      # Generate name-writing snake
+      - name: Generate name writer
+        uses: ironmaniiith/Github-profile-name-writer@v1.0
+        with:
+          github_user_name: s3nkuuu
+          
+      - name: Move name file
+        run: |
+          mkdir -p dist
+          mv github-profile-name-writer.svg dist/github-snake-name.svg || echo "Name file not generated"
+          
       - name: Push to snake branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
