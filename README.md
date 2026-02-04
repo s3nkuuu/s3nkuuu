@@ -448,187 +448,51 @@ void loop() {
 
 </div>
 
-<!-- ===================================================== -->
-<!-- 💬 LET'S CONNECT -->
-<!-- ===================================================== -->
+<!-- LET'S CONNECT -->
 
 <div align="center">
 
 <br>
 
-<!-- ✨ Chibi waving -->
-<img src="https://user-images.githubusercontent.com/74038190/212752248-684b7c3f-f5b4-4ebd-970f-29e7b5c3e202.gif" width="50" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=%F0%9F%92%AC+Let's+Connect+%F0%9F%8C%9F" />
-<img src="https://user-images.githubusercontent.com/74038190/212752248-684b7c3f-f5b4-4ebd-970f-29e7b5c3e202.gif" width="50" />
+**Let's talk about:**
 
 <br>
 
-<!-- ✨ Handshake animation -->
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="250" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Dev-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/UI/UX_Design-FF79C6?style=for-the-badge&logo=figma&logoColor=white" />
 
-<br><br>
-
-**💭 Let's talk about:**
+<img src="https://img.shields.io/badge/Anime-8BE9FD?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+<img src="https://img.shields.io/badge/🐱_Cat_Tips-E8DF7A?style=for-the-badge&logo=cat&logoColor=red" />
+<img src="https://img.shields.io/badge/Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🔧_Arduino_&_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/💻_Web_Dev-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/🎨_UI/UX_Design-FF79C6?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img src="https://img.shields.io/badge/🎌_Anime_Recs-8BE9FD?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-<img src="https://img.shields.io/badge/🐱_Cat_Tips-E8DF7A?style=for-the-badge&logo=cat&logoColor=black" />
-<img src="https://img.shields.io/badge/🎵_Lo--fi_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-
-<br><br>
-
-<!-- ✨ Social links with better styling -->
+<!-- Social links -->
 <a href="https://github.com/s3nkuuu">
   <img src="https://img.shields.io/badge/GitHub-@s3nkuuu-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=ff79c6" />
 </a>
 <a href="https://open.spotify.com/user/31k3ebz6elmpuo52t73bex5jdwym">
-  <img src="https://img.shields.io/badge/Spotify-My_Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" />
+  <img src="https://img.shields.io/badge/Spotify-Jiem-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" />
 </a>
 
 <br><br>
 
-<!-- ✨ Anime clip: Friends -->
-<img src="https://media.tenor.com/QBd2kLB5qDmysEXre9AAAAd/violet-evergarden-friends.gif" width="400"/>
-
-<br><br>
-
-</div>
-
-<!-- ✨ Call to action grid -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-<!-- ✨ Chibi star -->
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d9fa6a-3de5-4cb3-9bbf-2b8a3e2f3311.png" width="80" />
-
-### ⭐ **Star Repos**
-
-*If you vibe*  
-*with my code*
-
-💖
-
-</td>
-<td align="center" width="33%">
-
-<!-- ✨ Chibi cat -->
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80" />
-
-### 🐱 **Pet a Cat**
-
-*For good*  
-*debugging karma*
-
-🐾
-
-</td>
-<td align="center" width="33%">
-
-<!-- ✨ Chibi watching -->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80" />
-
-### 🎌 **Watch Anime**
-
-*For creative*  
-*inspiration*
-
-✨
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <div align="center">
 
-<!-- ✨ Sakura divider -->
+<!-- Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
-<!-- ===================================================== -->
-<!-- 🌸 GRAND FINALE WITH ANIME CLIPS -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<br><br>
-
-<!-- ✨ Beautiful anime farewell scene -->
-<img src="https://media.tenor.com/l0HlQXlQ3nHyLMvteAAAAd/your-name-sunset.gif" width="500" />
-
-<br><br>
-
-<!-- ✨ Transparent chibi characters -->
-<img src="https://user-images.githubusercontent.com/74038190/216655834-dea9c51f-33be-4303-b3ae-b93528e4e5db.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/216655807-b5d9b4fd-3d98-4ccc-8c9f-28a6ca4d2a15.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/216655820-e3ee824b-52f0-4f1b-8dfe-ba9b0a3b0f5e.gif" width="50" />
-
-<br><br>
-
-<!-- ✨ Enhanced ASCII cat -->
-```ascii
-              /\_/\  
-             ( o.o ) 
-              > ^ <
-             /|   |\
-            (_|   |_)
-           /  \___/  \
-          /  /     \  \
-         /__/       \__\
-        
-    "Meow-velous code ahead!"
-```
-
 <br>
 
-<!-- ✨ Final quote -->
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    「 Move softly. Build beautifully.                   」 ║
-║    「 Like a cat in the night.                          」 ║
-║                                                            ║
-║         🌙 Code with soul. Debug with patience. 🐾        ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<!-- ✨ Multi-line farewell -->
+<!-- Farewell -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF79C6&center=true&vCenter=true&width=900&height=120&lines=Thanks+for+visiting!+%E2%9C%A8+Come+back+soon!;Happy+Coding!+%F0%9F%92%BB+Stay+Creative!+%F0%9F%8E%A8;May+your+bugs+be+few+%F0%9F%90%9B+And+commits+clean+%E2%9C%A8;Keep+learning%2C+keep+building+%F0%9F%9A%80;Meow~+%F0%9F%90%BE+Stay+Awesome!+%F0%9F%8C%9F;さようなら!+See+you+again!+またね!+%F0%9F%8C%B8" />
 
 <br><br>
 
-<!-- ✨ Chibi farewell -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100px" />
-
-<br><br>
-
-<!-- ✨ Footer wave -->
+<!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,12,20,27,24&section=footer" />
 
 </div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                                                  -->
-<!--        ✨ ULTRA AESTHETIC ANIME PROFILE ✨      -->
-<!--                                                  -->
-<!--           Made with 💖 by s3nkuuu                -->
-<!--      Coded at 3:47 AM • Cat supervision ✓       -->
-<!--                                                  -->
-<!--  "The best code is written in the quiet hours   -->
-<!--   when the world sleeps and only cats watch."   -->
-<!--                                                  -->
-<!--        🌸 Powered by Anime & Lo-fi 🌸          -->
-<!--                                                  -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
