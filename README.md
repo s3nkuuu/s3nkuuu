@@ -3,9 +3,7 @@
 <div align="center">
 
 <!-- Welcome -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&height=80&lines=こんにちは!;👾Welcome+to+my+Profile👾+;BSIT+Student+🍓+オタク+🍓+Ailurophile+ฅ^•ﻌ•^ฅ" />
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <br>
 
