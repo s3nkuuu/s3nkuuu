@@ -459,7 +459,7 @@ void loop() {
 <br>
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Dev-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BB_Web_Dev-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/UI/UX_Design-FF79C6?style=for-the-badge&logo=figma&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Anime-8BE9FD?style=for-the-badge&logo=crunchyroll&logoColor=white" />
@@ -488,7 +488,7 @@ void loop() {
 <br>
 
 <!-- Farewell -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF79C6&center=true&vCenter=true&width=900&height=120&lines=Thanks+for+visiting!+%E2%9C%A8+Come+back+soon!;Happy+Coding!+%F0%9F%92%BB+Stay+Creative!+%F0%9F%8E%A8;May+your+bugs+be+few+%F0%9F%90%9B+And+commits+clean+%E2%9C%A8;Keep+learning%2C+keep+building+%F0%9F%9A%80;Meow~+%F0%9F%90%BE+Stay+Awesome!+%F0%9F%8C%9F;さようなら!+See+you+again!+またね!+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF79C6&center=true&vCenter=true&width=900&height=120&lines=Thanks+for+visiting!+%E2%9C%A8+Come+back+soon!;Happy+Coding!+%F0%9F%92%BB+Stay+Creative!+%F0%9F%8E%A8;May+your+bugs+be+few+%F0%9F%90%9B+And+commits+clean+%E2%9C%A8;Keep+learning%2C+keep+building+%F0%9F%9A%80;Meow~+%F0%9F%90%BE+Stay+Awesome!+%F0%9F%8C%9F;さようなら!+See+you+again!+またね!+🍓" />
 
 <br><br>
 
