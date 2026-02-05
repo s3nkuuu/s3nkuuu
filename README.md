@@ -29,7 +29,7 @@
   </a>
   <img src="https://custom-icon-badges.demolab.com/github/followers/s3nkuuu?style=for-the-badge&logo=people&logoColor=white&color=8be9fd&labelColor=282a36&label=Followers" />
   <img src="https://custom-icon-badges.demolab.com/github/stars/s3nkuuu?style=for-the-badge&logo=star&logoColor=white&color=e8df7a&labelColor=282a36&label=Stars" />
-  <img src="https://komarev.com/ghpvc/?username=s3nkuuu&color=ff79c6&style=for-the-badge&label=Profile+Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=s3nkuuu&color=ff79c6&style=for-the-badge&label=Profile+Views" /> -->
 </p>
 
 </div>
